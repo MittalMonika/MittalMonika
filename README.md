@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MittalMonika/MittalMonika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
  🔭 Aspiring Data Scientist who loves to uncover insights from data.
 ## 🎓 What I'm trained in
 -  Proficient in Python, C++, quite familiar with SQL.
