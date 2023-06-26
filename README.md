@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  🔭 Aspiring Data Scientist who loves to uncover insights from data.
-## 🎓 What I'm trained in
+ 🎓 I'm trained in
 -  Proficient in Python, C++, quite familiar with SQL.
 -  Deep understanding of Machine Learning algorithms and principles, and their application.
 -  Expertise in Data Visualization and Exploratory Data Analysis (EDA).
