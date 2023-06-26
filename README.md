@@ -17,6 +17,6 @@ Here are a few projects I've worked on recently:
 
 ### 📫 How to reach me:
 - monikamittal27_gamil.com
-- Linkedin 
+- [![LinkedIn](https://path/to/your/linkedin/button/image)](https://www.linkedin.com/in/drmonikamittal/)
 
 
