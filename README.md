@@ -16,7 +16,6 @@ Here are a few projects I've worked on recently:
 - Data Science and Machine Learning projects. If you have an interesting idea or need help with your project, don't hesitate to reach out!
 
 ### 📫 How to reach me:
-- monikamittal27_gamil.com
 [![LinkedIn](https://path/to/your/linkedin/button/image)](https://www.linkedin.com/in/drmonikamittal/)
 [![Kaggle](https://path/to/your/kaggle/button/image)](https://www.kaggle.com/monikamittal27)
 [![Inspire](https://path/to/your/inspire/button/image)](ttps://inspirehep.net/authors/1073189)
