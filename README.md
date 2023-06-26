@@ -5,7 +5,7 @@
 -  Proficient in Python, C++, quite familiar with SQL.
 -  Deep understanding of Machine Learning algorithms and principles, and their application.
 -  Expertise in Data Visualization and Exploratory Data Analysis (EDA).
-###  🌱 I’m currently building up a profile for a Data scientist. 
+###  🌱 I’m currently enhancing my profile for a Data scientist. 
 ## 📚 My Projects
 
 Here are a few projects I've worked on recently:
@@ -17,6 +17,10 @@ Here are a few projects I've worked on recently:
 
 ### 📫 How to reach me:
 - monikamittal27_gamil.com
-- [![LinkedIn](https://path/to/your/linkedin/button/image)](https://www.linkedin.com/in/drmonikamittal/)
+[![LinkedIn](https://path/to/your/linkedin/button/image)](https://www.linkedin.com/in/drmonikamittal/)
+[![Kaggle](https://path/to/your/kaggle/button/image)](https://www.kaggle.com/monikamittal27)
+[![Inspire](https://path/to/your/inspire/button/image)](ttps://inspirehep.net/authors/1073189)
+[![HackerRank](https://path/to/your/hackerrank/button/image)](https://www.hackerrank.com/your-username)
+
 
 
