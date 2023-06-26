@@ -1,4 +1,4 @@
-### Hi there 👋 I am Monika Mittal Ph.D. in Physics
+### Hi there 👋 I am Monika Mittal (Ph.D. in Physics)
 
 ### 🔭 Aspiring Data Scientist who loves to uncover insights from data.
 ### 🎓 I'm trained in
