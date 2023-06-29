@@ -5,7 +5,7 @@
 -  Proficient in Python, C++, quite familiar with SQL.
 -  Deep understanding of Machine Learning algorithms and principles, and their application.
 -  Expertise in Data Visualization and Exploratory Data Analysis (EDA).
-###  🌱 I’m currently enhancing my profile for a Data scientist. 
+###  🌱 I’m currently in the phase of transitioning from academia as a data scientist to the IT industry, with a focus on enhancing my profile for a data scientist role." 
 ## 📚 My Projects
 
 Here are a few projects I've worked on recently:
